@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
-  - [Azure Honeynet/SOC](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Honeynet/SOC](https://github.com/parkerb123/Azure-SOC)
 - <b>Vulnerability Management</b>
   - [Nessus Basics Tutorial](https://medium.com/@parkerbenitez/nessus-basics-tutorial-vulnerability-management-fb20f2b765d) 
 - <b>Active Directory</b>
