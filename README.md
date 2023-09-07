@@ -7,6 +7,8 @@
   -  [Azure OpenVAS Vulnerbility Management](https://github.com/parkerb123/OpenVAS-Vulnerability-Management)
 - <b>Vulnerability Management</b>
   - [Nessus Basics Tutorial](https://medium.com/@parkerbenitez/nessus-basics-tutorial-vulnerability-management-fb20f2b765d) 
+- <b>Threat Detection</b>
+  - [Threat Detection With YARA](https://medium.com/@parkerbenitez/what-is-yara-d9d5e04763dc) 
 - <b>Active Directory</b>
   - [Creating 1,000+ Users With Powershell](https://medium.com/@parkerbenitez/active-directory-project-how-to-set-up-a-running-ad-create-1-000-users-with-powershell-751991769cb9) 
    
