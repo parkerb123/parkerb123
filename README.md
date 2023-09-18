@@ -1,4 +1,4 @@
-<h1>Hi, I'm Parker! <br/><a href="https://www.linkedin.com/in/parkerbenitez/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Parker! An Aspiring Cyber Professional.<br/><a href="https://www.linkedin.com/in/parkerbenitez/">Let's Connect!</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
