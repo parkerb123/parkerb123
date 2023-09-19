@@ -9,7 +9,9 @@
   - [Nessus Basics Tutorial](https://medium.com/@parkerbenitez/nessus-basics-tutorial-vulnerability-management-fb20f2b765d) 
 - <b>Threat Detection</b>
   - [Hands-on with Splunk & Snort](https://medium.com/@parkerbenitez/monitoring-with-splunk-x-snort-30795377330d)
-  - [Threat Detection With YARA](https://medium.com/@parkerbenitez/what-is-yara-d9d5e04763dc) 
+  - [Threat Detection With YARA](https://medium.com/@parkerbenitez/what-is-yara-d9d5e04763dc)
+- <b>Network and Malware Analysis</b>
+  - [Wireshark Traffic and Malware Analysis](https://medium.com/@parkerbenitez/wireshark-traffic-and-malware-analysis-2a5da9b5a610)
 - <b>Active Directory</b>
   - [Creating 1,000+ Users With Powershell](https://medium.com/@parkerbenitez/active-directory-project-how-to-set-up-a-running-ad-create-1-000-users-with-powershell-751991769cb9) 
    
