@@ -16,7 +16,8 @@
 - <b>Active Directory</b>
   - [Creating 1,000+ Users With Powershell](https://medium.com/@parkerbenitez/active-directory-project-how-to-set-up-a-running-ad-create-1-000-users-with-powershell-751991769cb9)
 - <b>Scripting</b>
-  - [Python Nmap Scanner](https://github.com/parkerb123/python3-NmapScanner/blob/main/README.md) 
+  - [Python Nmap Scanner](https://github.com/parkerb123/python3-NmapScanner/blob/main/README.md)
+  - [Python Port Scanner](https://github.com/parkerb123/Python3_PortScanner/blob/main/README.md) 
    
 
 <h2>✏️ About Me</h2>
