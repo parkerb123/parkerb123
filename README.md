@@ -10,7 +10,7 @@
 - <b>Threat Detection</b>
   - [Detection & Monitoring with Splunk & Snort](https://medium.com/@parkerbenitez/monitoring-with-splunk-x-snort-30795377330d)
   - [Threat Detection With YARA](https://medium.com/@parkerbenitez/what-is-yara-d9d5e04763dc)
-  -  [LimaCharlie SOC Analyst Lab](https://medium.com/@parkerbenitez/what-is-yara-d9d5e04763dc)
+  -  [SOC Analyst Lab with EDR](https://medium.com/@parkerbenitez/soc-analyst-lab-with-edr-b40ae28c5ce5)
 - <b>Network and Malware Analysis</b>
   - [Wireshark Traffic and Malware Analysis](https://medium.com/@parkerbenitez/wireshark-traffic-and-malware-analysis-2a5da9b5a610)
 - <b>Active Directory</b>
