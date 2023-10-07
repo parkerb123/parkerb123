@@ -22,7 +22,7 @@
 
 <h2>✏️ About Me</h2>
 
-- <b>Professional with a comprehensive academic foundation in Cybersecurity, holding a Bachelor's Degree.</b>
+- <b>Professional with a comprehensive academic foundation in Cybersecurity, holding a Bachelor's Degree and CompTIA Security+.</b>
 - <b>Accumulated one year of hands-on experience as a System Engineer working with servers, databases, Windows and Linux Machines.</b>
 - <b>Actively pursuing advanced knowledge in Vulnerability Management and Azure technologies.</b>
 
