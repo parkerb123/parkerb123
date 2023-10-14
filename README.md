@@ -13,6 +13,8 @@
   - [Threat Detection With YARA](https://medium.com/@parkerbenitez/what-is-yara-d9d5e04763dc)
 - <b>Network and Malware Analysis</b>
   - [Wireshark Traffic and Malware Analysis](https://medium.com/@parkerbenitez/wireshark-traffic-and-malware-analysis-2a5da9b5a610)
+- <b>Next-Gen Firewall</b>
+  -  [OPNsense Next-Gen Firewall: A Deep Dive into Suricata Integration]([https://medium.com/@parkerbenitez/soc-analyst-lab-with-edr-b40ae28c5ce5](https://medium.com/@parkerbenitez/opnsense-next-gen-firewall-a-deep-dive-into-suricata-integration-e5b71cb9b3b3)
 - <b>Active Directory</b>
   - [Creating 1,000+ Users With Powershell](https://medium.com/@parkerbenitez/active-directory-project-how-to-set-up-a-running-ad-create-1-000-users-with-powershell-751991769cb9)
 - <b>Scripting</b>
